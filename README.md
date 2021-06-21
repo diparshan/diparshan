@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diparshan
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML CSS 
+- 🌱 I’m currently learning HTML CSS and JS
 - 💞️ I’m looking to collaborate on frontend webprojects
 - 📫 How to reach me ... call me lol
 
