@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @diparshan
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML CSS and JS
-- 💞️ I’m looking to collaborate on frontend webprojects
-- 📫 How to reach me ... call me lol
+- 🌱 I’m currently learning HTML CSS JS and PYTHON
+- 💞️ I’m looking to collaborate on Web Development projects
+- 📫 How to reach me ... call me 
 
 <!---
 diparshan/diparshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
